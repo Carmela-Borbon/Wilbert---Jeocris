@@ -1,2 +1,80 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+@ -22,12 +22,12 @@
+        <div class="header__logo-container">
+          <div class="header__logo-img-cont">
+            <img
+              src="./assets/png/john-doe.png"
+              src="./assets/png/369395652_122105682344016640_5888054657681928176_n.jpg"
+              alt="Ram Maheshwari Logo Image"
+              class="header__logo-img"
+            />
+          </div>
+          <span class="header__logo-sub">Jeocris & Wilbert
+          <span class="header__logo-sub">Macchiato Point Iced Coffee
+        </div>
+        <div class="header__main">
+          <ul class="header__links">
+@ -87,9 +87,7 @@
+        <h1 class="heading-primary">About Macchiato Point
+        <div class="project-cs-hero__info">
+          <p class="text-primary">
+            Macchioto Point Iced Coffee, Where Iced Delights Ignite!
+          </p>
+        </div>
+        <div class="project-cs-hero__cta">
+@ -109,39 +107,12 @@
+          </div>
+          <div class="project-details__content-main">
+            <div class="project-details__desc">
+              <h3 class="project-details__content-title">Project Overview</h3>
+              <h3 class="project-details__content-title">Macchiato Point Iced Coffee</h3>
+              <p class="project-details__desc-para">Indulge in the refreshing allure of the Macchiato Point Iced Coffee – where the boldness of espresso meets the smooth embrace of creamy perfection, delivering a symphony of flavor that's as invigorating as it is satisfying."
+              <p class="project-details__desc-para">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
+                alias tenetur minus quaerat aliquid, aut provident blanditiis,
+                deleniti aspernatur ipsam eaque veniam voluptatem corporis vitae
+                mollitia laborum corrupti ullam rem. Lorem ipsum dolor sit amet
+                consectetur adipisicing elit. Neque alias tenetur minus quaerat
+                aliquid, aut provident blanditiis, deleniti aspernatur ipsam
+                eaque veniam voluptatem corporis vitae mollitia laborum corrupti
+                ullam rem?
+                Discover a taste of paradise in every sip at Macchiato Point Iced Coffee, nestled in the heart of Sudlon 2, Cebu City. Savor the cool embrace of our signature brews as you embark on a journey of flavor that transcends the ordinary, leaving you refreshed and inspired with each delicious moment."
+              </p>
+              <p class="project-details__desc-para">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque
+                alias tenetur minus quaerat aliquid, aut provident blanditiis,
+                deleniti aspernatur ipsam eaque veniam voluptatem corporis vitae
+                mollitia laborum corrupti ullam rem?
+              </p>
+            </div>
+            <div class="project-details__tools-used">
+              <h3 class="project-details__content-title">Tools Used</h3>
+              <div class="skills">
+                <div class="skills__skill">HTML</div>
+                <div class="skills__skill">CSS</div>
+                <div class="skills__skill">JavaScript</div>
+                <div class="skills__skill">React</div>
+                <div class="skills__skill">SASS</div>
+                <div class="skills__skill">GIT</div>
+                <div class="skills__skill">Shopify</div>
+                <div class="skills__skill">Wordpress</div>
+                <div class="skills__skill">Google ADS</div>
+                <div class="skills__skill">Facebook Ads</div>
+                <div class="skills__skill">Android</div>
+                <div class="skills__skill">IOS</div>
+        
+              </div>
+            </div>
+            <div class="project-details__links">
+@ -209,10 +180,9 @@
+            </div>
+          </div>
+          <div class="main-footer__row main-footer__row-2">
+            <h4 class="heading heading-sm text-lt">Jeocris & Wilbert</h4>
+            <h4 class="heading heading-sm text-lt">Macchiato Point Iced Coffee</h4>
+            <p class="main-footer__short-desc">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit facilis
+              tempora explicabo quae quod deserunt
+              The objective of Macchiato Point Iced Coffee is to provide the residents and visitors of Sudlon 2, Cebu City with a premier destination for unparalleled coffee experiences. Our goal is to craft exceptional beverages that tantalize the taste buds, foster a sense of community, and elevate the coffee-drinking experience to new heights. Through our dedication to quality, innovation, and customer satisfaction, we aim to become the go-to spot for coffee aficionados and casual drinkers alike, creating a haven where every cup tells a story and every visit leaves a lasting impression."
+            </p>
+          </div>
+        </div>
